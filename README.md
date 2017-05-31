@@ -13,13 +13,6 @@
 
 感谢 [@siberiawolf](https://github.com/siberiawolf) 使用 Bootstrap 开发了网页版，地址：http://siberiawolf.com/free_programming/index.html
 
-## 参与交流
-
-欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
-
-* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request
-
-贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 ## 目录
 
